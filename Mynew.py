@@ -1,1 +1,3 @@
-Print('a')
+
+a='a'
+Print(a)
